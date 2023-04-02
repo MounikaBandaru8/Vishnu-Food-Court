@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding:0;
+    background:url(login23.jpg);
+    background-size:cover;
+    background-position: center;
+    font-family:sans-serif;
+}
+.login{
+    border:1px solid grey;
+    width:20%;
+    margin:10% auto;
+    padding:2%;
+    background:#fff;
+    color:#000;
+}
+h1{
+    margin:0;
+    padding:0 0 20px;
+    text-align: center;
+}
